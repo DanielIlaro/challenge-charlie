@@ -29,8 +29,6 @@ Mobile responsivo:
   - cd $seu-fork
   - comando para instalar dependências
   - comando para executar a aplicação
-- A API precisa suportar um volume de 1000 requisições por segundo em um teste de estresse.
-
 
 
 ## Critério de avaliação
