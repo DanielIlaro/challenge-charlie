@@ -15,6 +15,12 @@ Mobile responsivo:
 ![alt tag](https://s3-us-west-1.amazonaws.com/1sti/desafio-mobile2.png)
 
 
+## Dicas
+* Tudo bem, até pode usar jquery. Se você não quiser usar (bônus), uma sugestão: Axios para a comunicação com a API.
+* HTML o mais semântico possível.
+* Branches com readme e instruções de implantação serão bem vindos.
+* Pré-processadores CSS como Stylus ou LESS também (bônus).
+
 ## Requisitos
 - Forkar esse desafio e criar o seu projeto (ou workspace) usando a sua versão desse repositório, tão logo acabe o desafio, submeta um *pull request*.
 - O código precisa rodar em Windows, macOS ou Ubuntu
