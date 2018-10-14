@@ -9,10 +9,12 @@ Web:
 ![alt tag](https://s3-us-west-1.amazonaws.com/1sti/desafio-desktop2.png)
 
 Mobile responsivo:
-<p align="center">
-![alt tag](https://s3-us-west-1.amazonaws.com/1sti/desafio-mobile1.png)
 
-![alt tag](https://s3-us-west-1.amazonaws.com/1sti/desafio-mobile2.png)
+<p align="center">
+  <img src="https://s3-us-west-1.amazonaws.com/1sti/desafio-mobile1.png">
+</p>
+<p align="center">
+  <img src="https://s3-us-west-1.amazonaws.com/1sti/desafio-mobile2.png">
 </p>
 
 
