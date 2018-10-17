@@ -1,28 +1,25 @@
 # <img src="https://avatars1.githubusercontent.com/u/42723118?s=200&v=4" alt="CA" width="24" /> Desafio Charlie
 
-Vamos dar uma olhada na previsão do tempo? A meta é criarmos uma página simples, que consuma a API do Yahoo de previsão do tempo (https://developer.yahoo.com/weather/). O layout final deverá ficar o mais próximo possível da versão abaixo (sim, vamos ter a versão responsiva mobile e a versão desktop):
+## Sobre o desafio
 
-Web:
+Deve ser desenvolvido uma simples lista de contatos (nomes e telefones).
 
-![alt tag](https://s3-us-west-1.amazonaws.com/1sti/desafio-desktop1.png)
+- O usuário deve efetuar o cadastro ou login para ter acesso a lista de contatos.
+- O usuário só pode visualizar e interagir com a sua própria lista de contatos.
+- Adicionar novos contatos a lista.
+- Editar contatos na lista.
+- Excluir contatos da lista.
+- Fazer logout.
 
-![alt tag](https://s3-us-west-1.amazonaws.com/1sti/desafio-desktop2.png)
+Você pode usar qualquer linguagem de programação para o desafio. Abaixo a lista de linguagens que nós aqui da CA temos mais afinidade:
+- JavaScript (NodeJS)
+- Python
+- Go
+- Ruby
+- C++
+- PHP
 
-Mobile responsivo:
-
-<p align="center">
-  <img src="https://s3-us-west-1.amazonaws.com/1sti/desafio-mobile1.png">
-</p>
-<p align="center">
-  <img src="https://s3-us-west-1.amazonaws.com/1sti/desafio-mobile2.png">
-</p>
-
-
-## Dicas
-* Tudo bem, até pode usar jquery. Se você não quiser usar (bônus), uma sugestão: Axios para a comunicação com a API.
-* HTML o mais semântico possível.
-* Branches com readme e instruções de implantação serão bem vindos.
-* Pré-processadores CSS como Stylus ou LESS também (bônus).
+Você pode usar qualquer _framework_. Se a sua escolha for por um _framework_ que resulte em _boilerplate code_, por favor assinale no README qual pedaço de código foi escrito por você. Quanto mais código feito por você, mais conteúdo teremos para avaliar.
 
 ## Requisitos
 - Forkar esse desafio e criar o seu projeto (ou workspace) usando a sua versão desse repositório, tão logo acabe o desafio, submeta um *pull request*.
@@ -43,7 +40,7 @@ Mobile responsivo:
 - **Segurança**: Existe alguma vulnerabilidade clara?
 - **Cobertura de testes** (Não esperamos cobertura completa)
 - **Histórico de commits** (estrutura e qualidade)
-- **UX**: A interface é de fácil uso e auto-explicativa? A API é intuitiva?
+- **UX**: A interface é de fácil uso e auto-explicativa?
 - **Escolhas técnicas**: A escolha das bibliotecas, banco de dados, arquitetura, etc, é a melhor escolha para a aplicação?
 
 ## Dúvidas
@@ -53,5 +50,5 @@ Quaisquer dúvidas que você venha a ter, consulte as [_issues_](https://github.
 Boa sorte! ;)
 
 <p align="center">
-  <img src="ca.jpg" alt="Challange accepted" />
+  <img src="https://github.com/cybers-athletic/challenge-charlie/blob/master/ca.jpg?raw=true" alt="Challange accepted" />
 </p>
